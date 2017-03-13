@@ -1,7 +1,8 @@
 .infoContainer {
+    position: relative;
     transition: all linear 0.3s;
     width: 100%;
-    height: 413px;
+    height: 440px;
     margin: 0 auto;
     background-color: black;
     z-index: 1001;

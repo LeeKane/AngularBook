@@ -2,9 +2,8 @@
     position: absolute;
     z-index: 1;
     width: 60%;
-    height: 58%;
+    height: 100%;
     left: 40%;
-    top: 288px;
     bottom: 0;
 }
 
@@ -12,9 +11,8 @@
     position: absolute;
     width: 60%;
     z-index: 2;
-    height: 58%;
+    height: 100%;
     left: 40%;
-    top: 288px;
     bottom: 0;
     background: linear-gradient(90deg, #000 0, rgba(0, 0, 0, .4) 50%, transparent);
 }

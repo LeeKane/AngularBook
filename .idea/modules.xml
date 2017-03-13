@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/../AngularBook/.idea/doubanBook.iml" filepath="$PROJECT_DIR$/../AngularBook/.idea/doubanBook.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/AngularBook.iml" filepath="$PROJECT_DIR$/.idea/AngularBook.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/doubanBook.iml" filepath="$PROJECT_DIR$/.idea/doubanBook.iml" />
     </modules>
   </component>
 </project>
